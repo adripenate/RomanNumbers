@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d088d3db-ff3e-494a-899d-31e1f89fc044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/NormalNumbers_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NormalNumbers_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NormalNumbers_.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,14 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/NormalNumbers_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="116">
+              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#405#406#0" expanded="true" />
                 <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NumberBreaker_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            <state relative-caret-position="311">
+              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
@@ -263,31 +261,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569943871520</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="NormalNumbers - First iteration">
+      <created>1570463095908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570463095908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NormalNumbers - Second iteration">
+      <created>1570463330524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570463330524</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumbers_ - 2019.10.01 at 10h 05m 29s.xml">
-      <configuration name="RomanNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumbers_ - 2019.10.01 at 10h 05m 58s.xml">
-      <configuration name="RomanNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumbers_ - 2019.10.01 at 10h 06m 04s.xml">
-      <configuration name="RomanNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumbers_ - 2019.10.01 at 10h 07m 51s.xml">
-      <configuration name="RomanNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumbers_ - 2019.10.01 at 10h 25m 28s.xml">
-      <configuration name="RomanNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberBreakerPerformance__should_execute_1000_times_in_less_than_a_second - 2019.10.01 at 16h 26m 42s.xml">
-      <configuration name="NumberBreakerPerformance_.should_execute_1000_times_in_less_than_a_second" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberBreakerPerformance__should_execute_1000_times_in_less_than_a_second - 2019.10.01 at 16h 26m 53s.xml">
-      <configuration name="NumberBreakerPerformance_.should_execute_1000_times_in_less_than_a_second" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NumberBreakerPerformance__should_execute_1000_times_in_less_than_a_second - 2019.10.01 at 16h 27m 19s.xml">
       <configuration name="NumberBreakerPerformance_.should_execute_1000_times_in_less_than_a_second" configurationId="JUnit" />
     </history-entry>
@@ -297,12 +288,33 @@
     <history-entry file="RomanNumbers_ - 2019.10.01 at 16h 27m 32s.xml">
       <configuration name="RomanNumbers_" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 16h 25m 52s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 16h 26m 06s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 16h 48m 24s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 16h 52m 06s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 16h 52m 39s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 17h 02m 40s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 17h 04m 30s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -311,7 +323,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,7 +345,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <MESSAGE value="NormalNumbers - First iteration" />
+    <MESSAGE value="NormalNumbers - Second iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="NormalNumbers - Second iteration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanMapper_.java" />
@@ -400,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NumberBreaker_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        <state relative-caret-position="311">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
@@ -412,14 +426,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NormalNumbers_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="116">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#405#406#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
           </folding>
         </state>
       </provider>

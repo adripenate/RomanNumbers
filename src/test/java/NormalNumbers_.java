@@ -20,15 +20,18 @@ public class NormalNumbers_ {
     }
 
     private int toNormal(String romanNumber) {
-        if (romanNumber.equals("II")) return 2;
-        return 1;
+        int normalNumber = 0;
+        for (int i=0; i< romanNumber.length(); i++)
+            if (romanNumber.charAt(i) == 'I') normalNumber++;
+        return normalNumber;
     }
 
     @Parameterized.Parameters
     public static Object[][] data() {
         return new Object[][]{
                 {"I", 1},
-                {"II", 2}
+                {"II", 2},
+                {"III", 3}
         };
     }
 }
