@@ -9,6 +9,7 @@ public class NormalNumber {
             new AbstractMap.SimpleEntry<>('I', 1),
             new AbstractMap.SimpleEntry<>('V', 5),
             new AbstractMap.SimpleEntry<>('X', 10),
+            new AbstractMap.SimpleEntry<>('L', 50),
             new AbstractMap.SimpleEntry<>('C', 100),
             new AbstractMap.SimpleEntry<>('M', 1000))
             .collect(Collectors.toMap(AbstractMap.SimpleEntry::getKey, AbstractMap.SimpleEntry::getValue)));
