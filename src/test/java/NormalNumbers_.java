@@ -7,6 +7,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 @RunWith(org.junit.runners.Parameterized.class)
 public class NormalNumbers_ {
     private static final char ONE = 'I';
+    private static final char TEN = 'X';
     private int number;
     private String romanNumber;
 
@@ -23,10 +24,15 @@ public class NormalNumbers_ {
     private int toNormal(String romanNumber) {
         int normalNumber = 0;
         for (int i=0; i< romanNumber.length(); i++) {
-            if (romanNumber.charAt(i) == ONE) normalNumber++;
-            else normalNumber+=10;
+            if (letterIsNumber(romanNumber, i, ONE)) normalNumber++;
+            else if (letterIsNumber(romanNumber, i, TEN)) normalNumber+=10;
+            else normalNumber = 100;
         }
         return normalNumber;
+    }
+
+    private boolean letterIsNumber(String romanNumber, int pos, char letter) {
+        return romanNumber.charAt(pos) == letter;
     }
 
     @Parameterized.Parameters
@@ -34,9 +40,9 @@ public class NormalNumbers_ {
         return new Object[][]{
                 {"I", 1},
                 {"II", 2},
-                {"III", 3},
                 {"X", 10},
-                {"XX", 20}
+                {"XX", 20},
+                {"C", 100}
         };
     }
 }
