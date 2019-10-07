@@ -6,8 +6,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 @RunWith(org.junit.runners.Parameterized.class)
 public class NormalNumbers_ {
-    private static final char ONE = 'I';
-    private static final char TEN = 'X';
     private int number;
     private String romanNumber;
 
@@ -18,21 +16,7 @@ public class NormalNumbers_ {
 
     @Test
     public void execute() {
-        assertThat(toNormal(romanNumber)).isEqualTo(number);
-    }
-
-    private int toNormal(String romanNumber) {
-        int normalNumber = 0;
-        for (int i=0; i< romanNumber.length(); i++) {
-            if (letterIsNumber(romanNumber, i, ONE)) normalNumber++;
-            else if (letterIsNumber(romanNumber, i, TEN)) normalNumber+=10;
-            else normalNumber = 100;
-        }
-        return normalNumber;
-    }
-
-    private boolean letterIsNumber(String romanNumber, int pos, char letter) {
-        return romanNumber.charAt(pos) == letter;
+        assertThat(NormalNumber.toNormal(romanNumber)).isEqualTo(number);
     }
 
     @Parameterized.Parameters
@@ -42,7 +26,8 @@ public class NormalNumbers_ {
                 {"II", 2},
                 {"X", 10},
                 {"XX", 20},
-                {"C", 100}
+                {"C", 100},
+                {"CC", 200}
         };
     }
 }
