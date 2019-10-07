@@ -24,12 +24,13 @@ public class NormalNumbers_ {
         return new Object[][]{
                 {"I", 1},
                 {"II", 2},
+                {"V", 5},
                 {"X", 10},
                 {"XX", 20},
                 {"C", 100},
                 {"CC", 200},
                 {"M", 1000},
-                {"MM", 2000},
+                {"MM", 2000}
         };
     }
 }

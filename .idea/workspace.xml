@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d088d3db-ff3e-494a-899d-31e1f89fc044" name="Default Changelist" comment="NormalNumbers - Seventh iteration">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NormalNumber.java" afterDir="false" />
+    <list default="true" id="d088d3db-ff3e-494a-899d-31e1f89fc044" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NormalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NormalNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/NormalNumbers_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NormalNumbers_.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NormalNumbers_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="192">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1075#1076#0" expanded="true" />
@@ -45,42 +45,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/NormalNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+            <state relative-caret-position="51">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#318#319#0" expanded="true" />
                 <element signature="e#379#380#0" expanded="true" />
                 <element signature="e#575#576#0" expanded="true" />
                 <element signature="e#621#622#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/NumberBreaker_.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/RomanMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="38" column="76" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="38" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2010#2011#0" expanded="true" />
-                <element signature="e#2069#2070#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NormalNumbers_.execute">
+  <component name="RunManager" selected="JUnit.NormalNumbers_">
     <configuration name="NormalNumbers_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RomanNumbers" />
       <option name="PACKAGE_NAME" value="" />
@@ -261,8 +233,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NormalNumbers_.execute" />
         <item itemvalue="JUnit.NormalNumbers_" />
+        <item itemvalue="JUnit.NormalNumbers_.execute" />
         <item itemvalue="JUnit.RomanNumbers_" />
         <item itemvalue="JUnit.NumberBreakerPerformance_.should_execute_1000_times_in_less_than_a_second" />
         <item itemvalue="JUnit.NumberBreaker_.execute" />
@@ -336,38 +308,52 @@
       <option name="project" value="LOCAL" />
       <updated>1570466302536</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="NormalNumbers - Seventh iteration">
+      <created>1570470744628</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570470744628</updated>
+    </task>
+    <task id="LOCAL-00010" summary="NormalNumbers - Eighth iteration">
+      <created>1570471359648</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570471359648</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 17h 39m 22s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 57m 16s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 17h 40m 14s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 57m 46s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 17h 56m 55s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 57m 56s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 17h 57m 13s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 58m 18s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 08m 21s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 58m 28s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 30m 31s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 58m 44s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 40m 39s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 59m 26s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 41m 47s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 19h 00m 06s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers__execute - 2019.10.07 at 18h 47m 19s.xml">
-      <configuration name="NormalNumbers_.execute" configurationId="JUnit" />
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 19h 03m 39s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 18h 47m 37s.xml">
+    <history-entry file="NormalNumbers_ - 2019.10.07 at 19h 04m 01s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -384,7 +370,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,7 +378,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,7 +399,8 @@
     <MESSAGE value="NormalNumbers - Fifth iteration" />
     <MESSAGE value="NormalNumbers - Sixth iteration" />
     <MESSAGE value="NormalNumbers - Seventh iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="NormalNumbers - Seventh iteration" />
+    <MESSAGE value="NormalNumbers - Eighth iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="NormalNumbers - Eighth iteration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanMapper_.java" />
@@ -466,18 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NumberBreaker_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -490,10 +465,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NumberBreaker_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NormalNumbers_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="192">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1075#1076#0" expanded="true" />
@@ -504,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NormalNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        <state relative-caret-position="51">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#318#319#0" expanded="true" />
