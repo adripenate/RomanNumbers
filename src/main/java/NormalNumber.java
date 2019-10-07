@@ -8,7 +8,8 @@ public class NormalNumber {
     private static final Map<Character, Integer> numberOf = Collections.unmodifiableMap(Stream.of(
             new AbstractMap.SimpleEntry<>('I', 1),
             new AbstractMap.SimpleEntry<>('X', 10),
-            new AbstractMap.SimpleEntry<>('C', 100))
+            new AbstractMap.SimpleEntry<>('C', 100),
+            new AbstractMap.SimpleEntry<>('M', 1000))
             .collect(Collectors.toMap(AbstractMap.SimpleEntry::getKey, AbstractMap.SimpleEntry::getValue)));
     private static int normalNumber;
 
