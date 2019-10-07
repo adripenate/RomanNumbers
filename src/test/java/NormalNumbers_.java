@@ -22,8 +22,9 @@ public class NormalNumbers_ {
     @Parameterized.Parameters
     public static Object[][] data() {
         return new Object[][]{
-                {"I", 1},
-                {"II", 2},
+                //{"I", 1},
+                //{"II", 2},
+                {"IV", 4},
                 {"V", 5},
                 {"X", 10},
                 {"XX", 20},

@@ -18,6 +18,7 @@ public class NormalNumber {
 
     public static int toNormal(String romanNumber) {
         normalNumber = 0;
+        if (romanNumber.contains("IV")) normalNumber-=2;
         for (int i=0; i< romanNumber.length(); i++) {
             if (letterIsNumber(romanNumber, i)) normalNumber+= valueOf(romanNumber, i);
         }
