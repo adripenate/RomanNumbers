@@ -11,6 +11,7 @@ public class NormalNumber {
             new AbstractMap.SimpleEntry<>('X', 10),
             new AbstractMap.SimpleEntry<>('L', 50),
             new AbstractMap.SimpleEntry<>('C', 100),
+            new AbstractMap.SimpleEntry<>('D', 500),
             new AbstractMap.SimpleEntry<>('M', 1000))
             .collect(Collectors.toMap(AbstractMap.SimpleEntry::getKey, AbstractMap.SimpleEntry::getValue)));
     private static int normalNumber;
