@@ -29,6 +29,7 @@ public class NormalNumbers_ {
                 {"IX", 9},
                 {"X", 10},
                 {"XX", 20},
+                {"XL", 40},
                 {"L", 50},
                 {"C", 100},
                 {"D", 500},

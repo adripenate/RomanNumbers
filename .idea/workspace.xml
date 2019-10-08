@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NormalNumbers_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="206">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,10 +43,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/NormalNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+            <state relative-caret-position="226">
+              <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1683#1684#0" expanded="true" />
+                <element signature="e#1941#1942#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -344,25 +346,17 @@
       <option name="project" value="LOCAL" />
       <updated>1570475552376</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="NormalNumbers - Thirteenth iteration">
+      <created>1570548235486</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570548235486</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 20h 06m 25s.xml">
-      <configuration name="NormalNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 20h 07m 54s.xml">
-      <configuration name="NormalNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 20h 08m 14s.xml">
-      <configuration name="NormalNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 20h 10m 45s.xml">
-      <configuration name="NormalNumbers_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NormalNumbers_ - 2019.10.07 at 20h 10m 58s.xml">
-      <configuration name="NormalNumbers_" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NormalNumbers_ - 2019.10.07 at 20h 13m 03s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
@@ -376,6 +370,21 @@
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NormalNumbers_ - 2019.10.08 at 16h 17m 38s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.08 at 16h 23m 14s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.08 at 16h 25m 34s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.08 at 16h 25m 47s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.08 at 16h 26m 52s.xml">
+      <configuration name="NormalNumbers_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NormalNumbers_ - 2019.10.08 at 16h 28m 40s.xml">
       <configuration name="NormalNumbers_" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -426,7 +435,8 @@
     <MESSAGE value="NormalNumbers - Tenth iteration" />
     <MESSAGE value="NormalNumbers - Eleventh iteration" />
     <MESSAGE value="NormalNumbers - Twelfth iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="NormalNumbers - Twelfth iteration" />
+    <MESSAGE value="NormalNumbers - Thirteenth iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="NormalNumbers - Thirteenth iteration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanMapper_.java" />
@@ -505,8 +515,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NormalNumbers_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="206">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -515,10 +525,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NormalNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        <state relative-caret-position="226">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#1941#1942#0" expanded="true" />
           </folding>
         </state>
       </provider>
