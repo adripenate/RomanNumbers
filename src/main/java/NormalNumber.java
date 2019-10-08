@@ -18,11 +18,15 @@ public class NormalNumber {
 
     public static int toNormal(String romanNumber) {
         normalNumber = 0;
-        if (romanNumber.contains("IV")) normalNumber-=2;
-        for (int i=0; i< romanNumber.length(); i++) {
-            if (letterIsNumber(romanNumber, i)) normalNumber+= valueOf(romanNumber, i);
+        if (hasToSubtractTwo(romanNumber)) normalNumber -= 2;
+        for (int i = 0; i < romanNumber.length(); i++) {
+            if (letterIsNumber(romanNumber, i)) normalNumber += valueOf(romanNumber, i);
         }
         return normalNumber;
+    }
+
+    private static boolean hasToSubtractTwo(String romanNumber) {
+        return romanNumber.contains("IV") || romanNumber.contains("IX");
     }
 
     private static Integer valueOf(String romanNumber, int i) {
