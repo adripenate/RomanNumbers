@@ -16,7 +16,7 @@ public class NormalNumbers_ {
 
     @Test
     public void execute() {
-        assertThat(NormalNumber.toNormal(romanNumber)).isEqualTo(number);
+        assertThat(new NormalNumber(romanNumber).toNormal()).isEqualTo(number);
     }
 
     @Parameterized.Parameters
@@ -33,8 +33,9 @@ public class NormalNumbers_ {
                 {"L", 50},
                 {"XC", 90},
                 {"C", 100},
+                {"CD", 400},
                 {"D", 500},
-                {"CC", 200},
+                {"CM", 900},
                 {"M", 1000},
                 {"MM", 2000}
         };
